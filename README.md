@@ -1,10 +1,12 @@
 # backimg_color
 
-A new Flutter project.
+A new Flutter project for setting up background images.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application.!
+[Uploading Screenshot_1638532307.png…]()
+
 
 A few resources to get you started if this is your first Flutter project:
 
